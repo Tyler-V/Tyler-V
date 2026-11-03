@@ -6,6 +6,7 @@ Former UH-60 Black Hawk pilot, writing software professionally since 2011. Mostl
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
